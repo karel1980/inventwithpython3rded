@@ -1,0 +1,1 @@
+I changed the contents of the jokes script (moppen.py) because the jokes don't work that well in Dutch
